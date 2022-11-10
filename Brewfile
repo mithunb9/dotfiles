@@ -26,6 +26,8 @@ brew "openssl@3"
 brew "qt@5"
 # Low-level access to audio, keyboard, mouse, joystick, and graphics
 brew "sdl2"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Developer targeted fonts with a high number of glyphs
 cask "font-hack-nerd-font"
 # Terminal emulator as alternative to Apple's Terminal app

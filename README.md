@@ -19,3 +19,9 @@ git clone git@github.com:mithunb9/dotfiles.git ~/.dotfiles
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+4. Run the install file
+
+```bash
+source ~/.dotfiles/install.sh
+```

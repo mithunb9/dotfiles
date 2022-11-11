@@ -1,17 +1,18 @@
-echo "Installing configuration files"
+echo "Installing configuration files" 
 
-echo "Starting homebrew"
+echo "Starting homebrew" 
 
 # Homebrew
 brew bundle --file ~/.dotfiles/Brewfile
 
-echo "Cleaning existing config files"
+echo "Cleaning existing config files" 
 # Clean existing configs
 rm -rf ~/.zshrc
 rm -rf ~/.gitconfig
 rm -rf ~/.config/nvim
 
-echo "Syncing config files"
+echo "Syncing config files" 
+
 # Add symlinks
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.gitconfig ~/.gitconfig

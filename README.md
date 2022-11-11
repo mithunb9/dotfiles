@@ -25,3 +25,9 @@ git clone git@github.com:mithunb9/dotfiles.git ~/.dotfiles
 ```bash
 source ~/.dotfiles/install.sh
 ```
+
+### Backup
+
+```bash
+source ~/.dotfiles/backup.sh
+```

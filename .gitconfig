@@ -1,5 +1,5 @@
 [user]
-	name = Mithun Balasdasubramanian
+	name = Mithun Balasubramanian
 	email = 24193159+mithunb9@users.noreply.github.com
 [filter "lfs"]
 	clean = git-lfs clean -- %f

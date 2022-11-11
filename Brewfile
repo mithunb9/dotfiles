@@ -28,8 +28,12 @@ brew "qt@5"
 brew "sdl2"
 # UNIX shell (command interpreter)
 brew "zsh"
+# Voice and text chat software
+cask "discord"
 # Developer targeted fonts with a high number of glyphs
 cask "font-hack-nerd-font"
+# Web browser
+cask "google-chrome"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
 # OpenJDK distribution from Azul

@@ -22,8 +22,12 @@ brew "gnutls"
 brew "neovim"
 # Port scanning utility for large networks
 brew "nmap"
+# Platform built on V8 to build network applications
+brew "node"
 # Cryptography and SSL/TLS Toolkit
 brew "openssl@3"
+# Python version management
+brew "pyenv"
 # Cross-platform application and UI framework
 brew "qt@5"
 # Low-level access to audio, keyboard, mouse, joystick, and graphics
@@ -38,6 +42,18 @@ cask "font-hack-nerd-font"
 cask "google-chrome"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
+# Provides updates to various Microsoft products
+cask "microsoft-auto-update"
+# Email client
+cask "microsoft-outlook"
+# Control your tools with a few keystrokes
+cask "raycast"
+# Music streaming service
+cask "spotify"
+# Virtual machines UI using QEMU
+cask "utm"
+# Open-source code editor
+cask "visual-studio-code"
 # OpenJDK distribution from Azul
 cask "zulu17"
 # OpenJDK distribution from Azul
